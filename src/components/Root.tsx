@@ -1,6 +1,3 @@
-// export const Root = () => {
-//     return <>Hello world!!!</>
-// }
 import {Link, Outlet} from "@tanstack/react-router";
 
 export const Root = () => {
@@ -9,7 +6,7 @@ export const Root = () => {
             <div className="nav-container">
                 <Link to="/" className="[&.active]:font-bold">
                     First
-                </Link>
+                </Link>{' '}
                 <Link to="/second" className="[&.active]:font-bold">
                     Second
                 </Link>

@@ -15,15 +15,6 @@ declare module '@tanstack/react-router' {
 }
 
 // Return the RouterProvider component with the router prop
-
-// function App() {
-//     return (
-//         <>
-//             {/*<p>Hello!</p>*/}
-//             <RouterProvider router={router} />
-//         </>
-//     )
-// }
 function App() {
   return (
     <>
