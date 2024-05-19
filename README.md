@@ -47,16 +47,6 @@ npm run dev
 
 The application will be running at `http://localhost:5173`.
 
-### Building for Production
-
-To build the application for production, run the following command:
-
-```
-npm run build
-```
-
-This will create an optimized build in the `dist` directory.
-
 ## Project Structure
 
 - `src/main.jsx`: Entry point of the application.
